@@ -1,0 +1,21 @@
+{
+    "schemes": [
+        "http"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "API REST em Go Template",
+        "title": "API de Template",
+        "contact": {},
+        "version": "1.0"
+    },
+    "host": "localhost:3000",
+    "basePath": "/",
+    "paths": {},
+    "tags": [
+        {
+            "description": "Operações relacionadas a Template",
+            "name": "Template"
+        }
+    ]
+}

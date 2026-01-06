@@ -1,0 +1,14 @@
+basePath: /
+host: localhost:3000
+info:
+  contact: {}
+  description: API REST em Go Template
+  title: API de Template
+  version: "1.0"
+paths: {}
+schemes:
+- http
+swagger: "2.0"
+tags:
+- description: Operações relacionadas a Template
+  name: Template
