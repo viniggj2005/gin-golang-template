@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 
 	"github.com/joho/godotenv"
@@ -16,6 +17,7 @@ import (
 // @tag.name        Template
 // @tag.description Operações relacionadas a Template
 func main() {
+	fmt.Println("Hello World")
 	routes.InitValidator()
 	err := godotenv.Load()
 	if err != nil {
